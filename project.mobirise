@@ -2098,22 +2098,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0} \n <div class=\"powr-reviews\" id=\"3fcf3bb6_1544296090\"></div><!-- Type valid HTML here -->\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-3w",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src=\"//www.powr.io/powr.js?external-type=html\"></script>"
-          ]
-        },
-        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
