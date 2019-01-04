@@ -1821,7 +1821,7 @@ body {
   background: #506ab9 !important;
 }
 .cid-rbMqD5Gefh .menu-content-top {
-  max-width: 1200px;
+  max-width: 3000px;
   display: none;
   padding: 0 2rem;
   margin: auto;
@@ -2034,7 +2034,7 @@ body {
   padding: 0.5rem 0;
   transition: padding .2s;
   min-height: 3.8rem;
-  align-items: center;
+  align-items: left;
 }
 .cid-rbMqD5Gefh .menu-logo .navbar-brand .navbar-caption-wrap {
   display: -webkit-flex;
